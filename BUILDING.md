@@ -235,7 +235,7 @@ testing.
 
 * `gcc` and `g++` >= 6.3 or newer, or
 * GNU Make 3.81 or newer
-* Python 3.6, 3.7, 3.8, and 3.9 (see note above)
+* Python 3.6, 3.7, 3.8, or 3.9 (see note above)
 
 Installation via Linux package manager can be achieved with:
 
@@ -252,7 +252,7 @@ Python 3 users may also need to install `python3-distutils`.
 #### macOS prerequisites
 
 * Xcode Command Line Tools >= 10 for macOS
-* Python 3.6, 3.7, 3.8, and 3.9 (see note above)
+* Python 3.6, 3.7, 3.8, or 3.9 (see note above)
 
 macOS users can install the `Xcode Command Line Tools` by running
 `xcode-select --install`. Alternatively, if you already have the full Xcode
